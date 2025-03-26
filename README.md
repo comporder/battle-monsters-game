@@ -1,9 +1,5 @@
 # Battle Monsters Game
 
-🧟 A C++ project where players collect, manage, and battle monsters using custom data structures such as hash tables and trees. Developed as part of COMP2112 - Data Structures.
-
----
-
 ### 🧩 Project Features
 
 - 🔍 **Hash Table**: All monsters are stored and retrieved using a custom hash table implementation.
